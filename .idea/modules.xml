@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/automation-using-testNJ-framework-main.iml" filepath="$PROJECT_DIR$/.idea/automation-using-testNJ-framework-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automation-using-testNJ-framework-main/untitled-auto-framework.iml" filepath="$PROJECT_DIR$/automation-using-testNJ-framework-main/untitled-auto-framework.iml" />
+    </modules>
+  </component>
+</project>
